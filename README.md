@@ -5,6 +5,6 @@ I'm a Computer Science & Philosophy student passionate about leveraging AI to bu
 
 ### 🔍 What I Work On:
 - **Accessibility**
-- **NLP**
+- **NLP & Voice AI**
 - **Human-AI Interaction**
 
