@@ -1,10 +1,13 @@
+# 👋 Hi, I'm Yixin Li
 
-# 👋 Hi, I'm Agnes Li
+**Computer Science & Philosophy @ Colby College**
 
-I'm a Computer Science & Philosophy student passionate about leveraging AI to build human-centered, accessible systems.
+### 🔍 What I’m Working On
+- **Accessibility:** Leading [InclusiM](https://www.inclusim.org/) to help businesses make their websites & apps accessible
+- **NLP & Conversational AI:** Building 0→1 AI agent in text message at [Continua](https://continua.ai/).
 
-### 🔍 What I Work On:
-- **Accessibility**
-- **NLP & Voice AI**
-- **Human-AI Interaction**
+### 💬 Let’s Talk About
+- **Human–AI Interaction**  
+- **Voice AI**
+
 
